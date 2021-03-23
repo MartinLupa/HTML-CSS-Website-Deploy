@@ -5,8 +5,8 @@ Deploy: https://martinlupa.github.io/HTML-CSS-Website-Deploy/
 Sections 1-5
 
 List of topics:
-
-  • Boilerplate
+<ul>
+  <li>• Boilerplate</li>
   • Text structure
   • Lists
   • Image elements
@@ -30,4 +30,4 @@ List of topics:
   • Font styling
   • Float/Clear
   • Buttons
-
+</ul>
