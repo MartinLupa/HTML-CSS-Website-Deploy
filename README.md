@@ -6,28 +6,28 @@ Sections 1-5
 
 List of topics:
 <ul>
-  <li>• Boilerplate</li>
-  • Text structure
-  • Lists
-  • Image elements
-  • Links
-  • Anchor tags
-  • Tables
-  • Forms
-  • Divs
-  • Debugging
-  • Inline CSS
-  • Internal CSS
-  • External CSS
-  • Debugging
-  • Syntax
-  • Selectors
-  • Classes
-  • IDs
-  • Favicons
-  • Static, relative and absolute positioning
-  • Web Design
-  • Font styling
-  • Float/Clear
-  • Buttons
+  <li>Boilerplate</li>
+ <li>Text structure
+ <li>Lists
+ <li>Image elements
+ <li>Links
+ <li>Anchor tags
+ <li>Tables
+ <li>Forms
+ <li>Divs
+ <li>Debugging
+ <li>Inline CSS
+ <li>Internal CSS
+ <li>External CSS
+ <li>Debugging
+ <li>Syntax
+ <li>Selectors
+ <li>Classes
+ <li>IDs
+ <li>Favicons
+ <li>Static, relative and absolute positioning
+ <li>Web Design
+ <li>Font styling
+ <li>Float/Clear
+ <li>Buttons
 </ul>
